@@ -89,7 +89,7 @@ Use other than academic and non-commercial use as above is deemed to be commerci
 == Appendix: Suggested code header and licensing information ==
 
 <nowiki>
-QATGBDT is © 2021, Majed Alsharari
+QATGBDT is © 2024, Majed Alsharari
 
 QATGBDT is published and distributed under the Academic Software License v1.0 (ASL).
 
