@@ -21,11 +21,11 @@ cd QATGBDT
 
 ## Binary Classification
 Explore the binary classification examples to see how the model performs on tasks such as:
-- [Network intrusion detection](examples/Binary_classification_tasks/cybersecurity/)
+- [Network intrusion detection](Examples/Binary_classification_tasks/cybersecurity)
 
 ## Multiclass Classification
 Explore the multiclass classification examples to see how the model performs on tasks such as:
-- [Jet substructure classification](examples/multiclass_classification_tasks/jet_substructure/)
+- [Jet substructure classification](Examples/Multiclass_classification_tasks/jet_substructure/)
 
 ## Citation
 Please cite our work as follows:
