@@ -3,8 +3,12 @@ Quantization-aware Training of Gradient Boosting Decision Trees
 
 This repository contains the pretrained models in the research presented in "Efficient Integer-Only-Inference of Gradient Boosting Decision Trees on Low-Power Devices," focusing on quantization-aware training for optimizing GBDT models on FPGA platforms.
 
+## Note
+If you see this note, the repository is still under building and is not fully ready to be implmented. We are working to make this more user-friendly framework.
+
 ## Prerequisites
-- Xilinx Vivado Design Suite
+- AMD-Vitis (2023.1) 
+- AMD-Xilinx Vivado Design Suite (2023.1)
 - Python 3
 - Compatible FPGA hardware:(e.g. AMD Kria KV260)
 - Conifer ([GitHub - thesps/conifer](https://github.com/thesps/conifer))
